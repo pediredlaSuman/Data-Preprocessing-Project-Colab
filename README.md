@@ -103,10 +103,10 @@ This project focuses on end-to-end data preprocessing for a dataset of students'
 - **Missing data handled** for all major columns
 - **Encoding applied** correctly
 - **Outliers identified and optionally removed**
-- **Final accuracy** of Decision Tree Classifier: _~[insert output]_
+- **Final accuracy** of Decision Tree Classifier:
 - **Insights derived** from graphs, binning, and skewness analysis
 
 ---
 
-## 📂 Folder Structure (if applicable)
+
 
